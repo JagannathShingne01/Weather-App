@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+main{
+    height: 100vh;
+    width: 100%;
+    background-color: #25CCF7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.title{
+    color: white;
+    font-size: 30px;
+}
+.row{
+    width: 500px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+#search{
+    background-color: white;
+    height: 50px;
+    width: 450px;
+    border: none;
+    outline: none;
+    border-radius: 29px;
+    font-size: 20px;
+    padding: 25px;
+    
+}
