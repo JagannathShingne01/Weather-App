@@ -4,8 +4,7 @@ const search = document.querySelector("#search")
 const weather = document.querySelector("#weather")
 
 
- // const API = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
- // const IMG_URL = `https: //openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`
+ 
 
 
  //this function will fetch city Weather details through api bye searching its name 
