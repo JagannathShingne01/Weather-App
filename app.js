@@ -4,9 +4,6 @@ const search = document.querySelector("#search")
 const weather = document.querySelector("#weather")
 
 
- 
-
-
  //this function will fetch city Weather details through api bye searching its name 
  const getWeather = async (city)=>{
     weather.innerHTML = `<h2>Loading.....</h2>`
